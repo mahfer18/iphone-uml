@@ -6,5 +6,6 @@ Foi utilizada como ferramenta de modelagem o Drawio (disponível em: https://www
 
 Após a modelagem foi implementado o código em java
 
-![image](https://github.com/user-attachments/assets/99c9a310-e7c6-4712-8e19-1d0a513716bf)
+![image](https://github.com/user-attachments/assets/8b196b14-f354-445f-9a4a-a01b6b62eb2e)
+
 
